@@ -12,3 +12,4 @@ def gen(n)
 end
 
 gen(n)
+print "\n"
